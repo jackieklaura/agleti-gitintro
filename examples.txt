@@ -1,0 +1,15 @@
+git init
+git add *.txt
+git commit -m "intialising the project"
+git commit --ammend -m "initialising the project"
+touch README
+git add README
+git commit --ammend
+git status
+git log
+
+
+git clone git://github.com/schacon/simplegit-progit.git
+git log
+gitk
+
